@@ -58,9 +58,15 @@ i{
     margin: auto;
 
 }
+
 .title{
     background-color: #98161b;
     padding-left: 18px;
+}
+.play{
+    position: absolute;
+    top: 277px;
+    left: 338px;
 }
 h1{
     text-transform: capitalize;
@@ -109,10 +115,8 @@ h2::after{
     color: #98161b;
 
 }
-.red{
-    background-color: #3f0002;
-    min-height: 38px;
-}
+
+
 
 footer{
     background-color: #000000;
